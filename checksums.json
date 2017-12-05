@@ -1,0 +1,13 @@
+{
+  "README.md": "f5f5192323f157f945f683aa4e8f7a3d",
+  "manifests/init.pp": "a01897bb1ac1a8989edc16f1b303d741",
+  "manifests/jdk6.pp": "83a046ae7a11911cfbaa3af8c17f4b08",
+  "manifests/jdk7.pp": "fdac303b2ef9284089f0de7586dbfd1c",
+  "manifests/jdk7_rpm.pp": "be2b456de27c034571584018b921fba5",
+  "manifests/jdk8.pp": "2cec66c7e4b48b1c111ee85286a2f906",
+  "manifests/jdk8_rpm.pp": "7244e5aac01fd610cd43f80846094f35",
+  "manifests/jdk9.pp": "09743ca09820478b7c6c3970b1386567",
+  "metadata.json": "4509a86f77a1a8a41b8b4624b93bf21b",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/init.pp": "8fcdac3cbff53bd8305913955fba9f97"
+}

@@ -1,0 +1,47 @@
+{
+  "name": "neillturner-oraclejava",
+  "version": "0.0.8",
+  "author": "neillturner",
+  "summary": "Install Oracle Java jdk6, 7, 8 or 9 via source, rpm or http proxy",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/neillturner/oraclejava",
+  "project_page": "",
+  "issues_url": "",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "RedHat",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "OracleLinux",
+      "operatingsystemrelease": [
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    {
+      "operatingsystem": "Ubuntu",
+      "operatingsystemrelease": [
+        "10.04",
+        "12.04",
+        "14.04"
+      ]
+    }
+  ],
+  "dependencies": [
+  
+  ]
+}
